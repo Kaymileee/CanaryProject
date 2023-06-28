@@ -19,3 +19,7 @@ $ cd ../DANTN
 $ dotnet build
 $ dotnet watch run
 ```
+## Video Demo
+```
+ https://drive.google.com/drive/folders/1CJW36eZmISPwlClefWuFjldpvoMc7fsB?usp=sharing
+```
