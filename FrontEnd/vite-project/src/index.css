@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap");
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: #fbf2cf; */
+  background: #fff;
+  /* background: rgb(15 23 42/1); */
+  color: #0f172a;
+  /* color: white; */
+  opacity: 0.9;
+}
+.container {
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+code {
+  font-family: "Montserrat", sans-serif;
+}
+.primary {
+  background-image: linear-gradient(
+    to right,
+    rgb(142, 45, 226),
+    rgb(74, 0, 224)
+  );
+}
+.txt-primary {
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.bg-gradient-secondary {
+  background-image: linear-gradient(to right top, #fc6c8f, #ffb86c);
+}
+.txt-primary {
+  background-image: linear-gradient(to right top, #6a5af9, #d66efd);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  /* Below is not needed */
+  background-size: cover;
+}
+.bg-primary {
+  background-image: linear-gradient(to right top, #6a5af9, #d66efd);
+}
+/* data dummies */
+.dataDumies div:nth-child(1):hover + div:nth-child(2) {
+  color: #fc6c8f;
+  transition: color 0.5s;
+}
+/* input */
+.text-field {
+  padding: 15px;
+  /* border: 1px solid #6a5af9; */
+  border-radius: 6px;
+  text-align: left;
+}
+
+.text-field label {
+  display: inline-block;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 10px;
+  color: #6a5af9;
+}
+
+.text-field input {
+  display: block;
+  width: 100%;
+  color: #fff;
+  font-size: 14px;
+  background-color: transparent;
+  color: #0f172a;
+  outline: none;
+  padding: 10px;
+}

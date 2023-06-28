@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DANTN.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DANTN.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230419164319_images.jpg",
+      "PackagePath": "staticwebassets\\user-content\\20230419164319_images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230426211719_102789672_1170573779972568_4903310445013791621_n.jpg",
+      "PackagePath": "staticwebassets\\user-content\\20230426211719_102789672_1170573779972568_4903310445013791621_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230426212025_Pineapple.png",
+      "PackagePath": "staticwebassets\\user-content\\20230426212025_Pineapple.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230426212332_Pineapple.png",
+      "PackagePath": "staticwebassets\\user-content\\20230426212332_Pineapple.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230505161117_Seasons.png",
+      "PackagePath": "staticwebassets\\user-content\\20230505161117_Seasons.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230505161336_Face.png",
+      "PackagePath": "staticwebassets\\user-content\\20230505161336_Face.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230505161431_unnamed-file.Numbers.png",
+      "PackagePath": "staticwebassets\\user-content\\20230505161431_unnamed-file.Numbers.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230505161516_numbers (1).png",
+      "PackagePath": "staticwebassets\\user-content\\20230505161516_numbers (1).png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230508085010_numbers (3).png",
+      "PackagePath": "staticwebassets\\user-content\\20230508085010_numbers (3).png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521110622_apples_00412559.webp",
+      "PackagePath": "staticwebassets\\user-content\\20230521110622_apples_00412559.webp"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521163434_numbers (1).png",
+      "PackagePath": "staticwebassets\\user-content\\20230521163434_numbers (1).png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521170443_shutterstock_1666213684-1.jpg",
+      "PackagePath": "staticwebassets\\user-content\\20230521170443_shutterstock_1666213684-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521170540_shutterstock_1666213684-1.jpg",
+      "PackagePath": "staticwebassets\\user-content\\20230521170540_shutterstock_1666213684-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521171102_20172F092F152F132F162F152Ff0f095ec-7514-47df-8795-26ba5e153c862FWatermelon.png",
+      "PackagePath": "staticwebassets\\user-content\\20230521171102_20172F092F152F132F162F152Ff0f095ec-7514-47df-8795-26ba5e153c862FWatermelon.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521173955_numbers (1).png",
+      "PackagePath": "staticwebassets\\user-content\\20230521173955_numbers (1).png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521174053_numbers (3).png",
+      "PackagePath": "staticwebassets\\user-content\\20230521174053_numbers (3).png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521174139_numbers (2).png",
+      "PackagePath": "staticwebassets\\user-content\\20230521174139_numbers (2).png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521175135_20172F112F152F132F132F262F9566f92b-fc65-4b70-9b63-313144d70d942F4.png",
+      "PackagePath": "staticwebassets\\user-content\\20230521175135_20172F112F152F132F132F262F9566f92b-fc65-4b70-9b63-313144d70d942F4.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521183116_20172F112F152F132F132F262F90b3a955-e043-402f-826d-bad4afc4ec8b2F3.png",
+      "PackagePath": "staticwebassets\\user-content\\20230521183116_20172F112F152F132F132F262F90b3a955-e043-402f-826d-bad4afc4ec8b2F3.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521190058_20172F112F152F132F132F262F7219b0ae-3a11-4bf6-8600-1e3ee20e58072F2.png",
+      "PackagePath": "staticwebassets\\user-content\\20230521190058_20172F112F152F132F132F262F7219b0ae-3a11-4bf6-8600-1e3ee20e58072F2.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521190420_20172F112F152F132F132F272F3fbc3e4a-0096-4a85-9b50-9fe32a37f2412F8.png",
+      "PackagePath": "staticwebassets\\user-content\\20230521190420_20172F112F152F132F132F272F3fbc3e4a-0096-4a85-9b50-9fe32a37f2412F8.png"
+    },
+    {
+      "Id": "C:\\Users\\DAT\\OneDrive\\Desktop\\NET CORE\\DANTN\\wwwroot\\user-content\\20230521190524_20182F032F052F112F332F532Fc985b3ff-b2ca-4d4d-81d6-d94bc8fbf2d32F10.png",
+      "PackagePath": "staticwebassets\\user-content\\20230521190524_20182F032F052F112F332F532Fc985b3ff-b2ca-4d4d-81d6-d94bc8fbf2d32F10.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DANTN.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DANTN.props",
+      "PackagePath": "build\\DANTN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DANTN.props",
+      "PackagePath": "buildMultiTargeting\\DANTN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DANTN.props",
+      "PackagePath": "buildTransitive\\DANTN.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,83 @@
+using DANTN.Data.Entities.Enums;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
+namespace DANTN.Data.Entities
+{
+  public class Question
+  {
+    public int QuestionId { get; set; }
+    public string? QuestionString { get; set; }
+    public string? TopicId { get; set; }
+    public virtual Topic? Topic { get; set; }
+    public string? Answer__1 { get; set; }
+    public string? Answer__2 { get; set; }
+    public string? Answer__3 { get; set; }
+    public string? Answer__4 { get; set; }
+    public IsCorrect IsCorrect { get; set; }
+    public string? ImageURL { get; set; }
+    public bool isTuluan { get; set; }
+
+    public static void SeedData(ModelBuilder modelBuilder)
+    {
+      modelBuilder.Entity<Question>().HasData(
+        new Question
+        {
+          QuestionId = 1,
+          QuestionString = "This is a test question",
+          Answer__1 = "Apple",
+          Answer__2 = "Banana",
+          Answer__3 = "Lemon",
+          Answer__4 = "Kiwi",
+          IsCorrect = IsCorrect.Answer_1,
+          ImageURL = "",
+          isTuluan = false,
+          TopicId = "TPFruits",
+        },
+         new Question
+         {
+           QuestionId = 2,
+           QuestionString = "Số táo viết như thế nào",
+           Answer_1 = "Apple",
+           Answer_2 = "",
+           Answer_3 = "",
+           Answer_4 = "",
+
+           ImageURL = "",
+           isTuluan = true,
+           TopicId = "TPFruits",
+         }
+
+
+      );
+    }
+
+
+  }
+  public class QuestionConfiguration : IEntityTypeConfiguration<Question>
+  {
+    public void Configure(EntityTypeBuilder<Question> builder)
+    {
+      // table name
+      builder.ToTable("Questions");
+
+      // primary key
+      builder.HasKey(x => x.QuestionId);
+
+      //property
+      builder.Property(x => x.QuestionId)
+             .UseIdentityColumn()
+             .IsRequired();
+      builder.Property(x => x.QuestionString)
+             .IsRequired();
+      builder.Property(x => x.Answer__1);
+      builder.Property(x => x.Answer__2);
+      builder.Property(x => x.Answer__3);
+      builder.Property(x => x.Answer__4);
+
+      builder.Property(x => x.TopicId);
+      builder.Property(x => x.ImageURL);
+
+    }
+  }
+}
