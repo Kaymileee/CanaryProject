@@ -7,9 +7,15 @@
 ## General info
 This project is simple Lorem ipsum dolor generator.
 ## Setup
-To run this project, install it locally using npm:
+To run this project FE, install it locally using npm:
 ```
-$ cd ../lorem
+$ cd ../vite-project
 $ npm install
 $ npm start
+```
+To run this project BE, install it locally using npm:
+```
+$ cd ../DANTN
+$ dotnet build
+$ dotnet watch run
 ```
